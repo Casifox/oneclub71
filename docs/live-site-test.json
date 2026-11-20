@@ -6,38 +6,32 @@
       "h1": "La nuit\na son adresse."
     },
     "contact": {
-      "status": 404,
+      "status": 200,
       "title": "Contact — ONE CLUB",
       "h1": "Nos\ncoordonnées."
     },
     "le-club": {
-      "status": 404,
+      "status": 200,
       "title": "Le Club — 1 800 m² de nuit à Saint-Marcel — ONE CLUB",
       "h1": "1 800 m²\nde nuit."
     },
     "galerie": {
-      "status": 404,
+      "status": 200,
       "title": "Galerie — Le lieu, les nuits, les affiches — ONE CLUB",
       "h1": "L'envers\ndu décor."
     },
     "mentions-legales": {
-      "status": 404,
+      "status": 200,
       "title": "Mentions légales — ONE CLUB",
       "h1": "Mentions légales"
     },
     "confidentialite": {
-      "status": 404,
+      "status": 200,
       "title": "Politique de confidentialité — ONE CLUB",
       "h1": "Politique de confidentialité"
     }
   },
-  "failed": [
-    "404 https://casifox.github.io/oneclub71/contact",
-    "404 https://casifox.github.io/oneclub71/le-club",
-    "404 https://casifox.github.io/oneclub71/galerie",
-    "404 https://casifox.github.io/oneclub71/mentions-legales",
-    "404 https://casifox.github.io/oneclub71/confidentialite"
-  ],
+  "failedAssets": [],
   "errors": [],
   "contact": {
     "forms": 0,
@@ -49,5 +43,6 @@
       "Facebook",
       "TikTok"
     ]
-  }
+  },
+  "note": "Les routes profondes sont servies via des dossiers index.html pour obtenir un statut 200 sur GitHub Pages."
 }

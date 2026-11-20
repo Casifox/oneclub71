@@ -57,7 +57,10 @@ Rapport détaillé : `docs/pages-build-test.json`.
 ## Déploiement
 
 - **GitHub Pages** : https://casifox.github.io/oneclub71/
+- **Guide PDF** : https://casifox.github.io/oneclub71/ONE-CLUB-71-guide.pdf
 - **Cloudflare Pages** : non connecté. Aucun compte Cloudflare ni jeton API n'était disponible dans l'environnement. Le site est compatible avec Cloudflare Pages (build `npm run build`, dossier `dist`), mais la connexion doit être faite depuis un compte Cloudflare.
+
+Vérification en ligne du 20/11/2026 : accueil, contact, club, galerie, mentions légales et confidentialité répondent **200**, aucune ressource en échec, aucun formulaire, e-mail/téléphone et trois comptes officiels présents. Rapport : `docs/live-site-test.json`.
 
 ## Coût
 

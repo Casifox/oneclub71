@@ -137,7 +137,7 @@ Résultats connus :
 
 ## Documentation
 
-- [Guide PDF du site](docs/ONE-CLUB-71-guide.pdf)
+- [Guide PDF du site](https://casifox.github.io/oneclub71/ONE-CLUB-71-guide.pdf)
 - [01 — Recherche ONE CLUB](docs/01-recherche-oneclub.md)
 - [02 — Audit des réseaux sociaux](docs/02-audit-reseaux-sociaux.md)
 - [03 — Analyse du logo et du branding](docs/03-analyse-logo-branding.md)

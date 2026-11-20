@@ -1,4 +1,5 @@
 import { chromium } from "playwright-core";
+import fs from "node:fs";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
 
@@ -30,6 +31,7 @@ await page.pdf({
   margin: { top: "0", right: "0", bottom: "0", left: "0" },
 });
 console.log(`PDF: ${output}`);
+fs.copyFileSync(output, path.resolve("public/ONE-CLUB-71-guide.pdf"));
 console.log(
   "images:",
   await page.evaluate(() =>
