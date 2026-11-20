@@ -28,8 +28,26 @@ export default defineConfig({
       name: "spa-404",
       closeBundle() {
         const index = path.resolve("dist", "index.html");
-        if (fs.existsSync(index)) {
-          fs.copyFileSync(index, path.resolve("dist", "404.html"));
+        if (!fs.existsSync(index)) return;
+        fs.copyFileSync(index, path.resolve("dist", "404.html"));
+
+        // GitHub Pages serves an existing folder/index.html with HTTP 200.
+        // Duplicating the shell for each public route avoids a 404 status on
+        // direct links while keeping React Router in charge of rendering.
+        const routes = [
+          "le-club",
+          "evenements",
+          "galerie",
+          "experience",
+          "infos",
+          "contact",
+          "mentions-legales",
+          "confidentialite",
+        ];
+        for (const route of routes) {
+          const dir = path.resolve("dist", route);
+          fs.mkdirSync(dir, { recursive: true });
+          fs.copyFileSync(index, path.join(dir, "index.html"));
         }
       },
     },
