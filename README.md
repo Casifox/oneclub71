@@ -134,6 +134,7 @@ Résultats connus :
 - Lighthouse accueil (build de production, mobile) : **93 / 100 / 100 / 100** (fichier `docs/lighthouse-home-2026-11-20.json`, audit antérieur au retrait du formulaire).
 - axe-core site public : 0 violation sur 9 routes, desktop et mobile (rapport `docs/axe-report.json`).
 - Build GitHub Pages : 0 requête échouée (rapport `docs/pages-build-test.json`).
+- Site en ligne : 6 routes en **200**, 0 ressource en échec, 0 formulaire, e-mail/téléphone et 3 comptes officiels (rapport `docs/live-site-test.json`).
 
 ## Documentation
 
