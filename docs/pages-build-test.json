@@ -1,0 +1,52 @@
+{
+  "routes": {
+    "home": {
+      "status": 200,
+      "title": "ONE CLUB — La nuit a son adresse. Saint-Marcel (71)",
+      "h1": "La nuit\na son adresse."
+    },
+    "contact": {
+      "status": 200,
+      "title": "Contact — ONE CLUB",
+      "h1": "Nos\ncoordonnées."
+    },
+    "le-club": {
+      "status": 200,
+      "title": "Le Club — 1 800 m² de nuit à Saint-Marcel — ONE CLUB",
+      "h1": "1 800 m²\nde nuit."
+    },
+    "galerie": {
+      "status": 200,
+      "title": "Galerie — Le lieu, les nuits, les affiches — ONE CLUB",
+      "h1": "L'envers\ndu décor."
+    },
+    "mentions-legales": {
+      "status": 200,
+      "title": "Mentions légales — ONE CLUB",
+      "h1": "Mentions légales"
+    },
+    "confidentialite": {
+      "status": 200,
+      "title": "Politique de confidentialité — ONE CLUB",
+      "h1": "Politique de confidentialité"
+    }
+  },
+  "errors": [],
+  "contact": {
+    "forms": 0,
+    "emailLink": "mailto:eric.andreo71@gmail.com",
+    "phoneLink": "tel:+33952337255",
+    "accounts": 3,
+    "accountLabels": [
+      "Instagram",
+      "Facebook",
+      "TikTok"
+    ]
+  },
+  "legalLink": {
+    "url": "http://127.0.0.1:4180/oneclub71/confidentialite",
+    "title": "Politique de confidentialité — ONE CLUB"
+  },
+  "fontStatus": 200,
+  "failedRequests": []
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "name": "home-1440",
+    "errors": [],
+    "layout": {
+      "headerBottom": 61,
+      "toplineTop": 126,
+      "h1Top": 187,
+      "visualTop": 611,
+      "viewport": {
+        "w": 1440,
+        "h": 900
+      },
+      "docWidth": 1440,
+      "overflowing": [
+        "DIV.marquee (3964/1440)",
+        "SPAN.sr-only (110/1)",
+        "SPAN.sr-only (110/1)",
+        "SPAN.sr-only (110/1)",
+        "SPAN.sr-only (118/1)"
+      ],
+      "title": "ONE CLUB — La nuit a son adresse. Saint-Marcel (71)"
+    }
+  },
+  {
+    "name": "home-768",
+    "errors": [],
+    "layout": {
+      "headerBottom": 61,
+      "toplineTop": 112,
+      "h1Top": 173,
+      "visualTop": 473,
+      "viewport": {
+        "w": 768,
+        "h": 1024
+      },
+      "docWidth": 768,
+      "overflowing": [
+        "DIV.marquee (3604/768)",
+        "SPAN.sr-only (110/1)",
+        "SPAN.sr-only (110/1)",
+        "SPAN.sr-only (110/1)",
+        "SPAN.sr-only (118/1)"
+      ],
+      "title": "ONE CLUB — La nuit a son adresse. Saint-Marcel (71)"
+    }
+  },
+  {
+    "name": "home-390",
+    "errors": [],
+    "layout": {
+      "headerBottom": 61,
+      "toplineTop": 112,
+      "h1Top": 206,
+      "visualTop": 569,
+      "viewport": {
+        "w": 390,
+        "h": 844
+      },
+      "docWidth": 390,
+      "overflowing": [
+        "DIV.marquee (3604/390)",
+        "SPAN.sr-only (110/1)",
+        "SPAN.sr-only (110/1)",
+        "SPAN.sr-only (110/1)",
+        "SPAN.sr-only (118/1)"
+      ],
+      "title": "ONE CLUB — La nuit a son adresse. Saint-Marcel (71)"
+    }
+  },
+  {
+    "name": "home-1440-full",
+    "errors": []
+  },
+  {
+    "name": "club-1440-full",
+    "errors": []
+  },
+  {
+    "name": "events-1440-full",
+    "errors": []
+  },
+  {
+    "name": "galerie-1440-full",
+    "errors": []
+  },
+  {
+    "name": "experience-1440-full",
+    "errors": []
+  },
+  {
+    "name": "infos-1440-full",
+    "errors": []
+  },
+  {
+    "name": "contact-1440-full",
+    "errors": []
+  },
+  {
+    "name": "legal-1440-full",
+    "errors": []
+  },
+  {
+    "name": "sections",
+    "errors": []
+  }
+]

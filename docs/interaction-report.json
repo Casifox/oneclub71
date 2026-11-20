@@ -1,0 +1,52 @@
+{
+  "desktopNav": {
+    "url": "http://127.0.0.1:4173/evenements",
+    "h1": "La programmation\nreprendra.",
+    "errors": []
+  },
+  "lightbox": {
+    "dialogOpen": true,
+    "caption1": "La salle principale et son bar central.",
+    "caption2": "L'espace VIP, entre banquettes et lumières.",
+    "changed": true,
+    "dialogClosed": true
+  },
+  "faq": {
+    "open": true
+  },
+  "contactValidation": {
+    "errors": [
+      "Indiquez votre nom.",
+      "Indiquez votre e-mail.",
+      "Écrivez au moins quelques mots (10 caractères).",
+      "Merci d'accepter l'utilisation de vos données pour être recontacté."
+    ],
+    "statusVisible": 0
+  },
+  "contactValid": {
+    "statusVisible": 1,
+    "statusText": "Votre logiciel de messagerie va s'ouvrir. Le message est déjà prérempli. Si rien ne se passe, écrivez directement à eric.andreo71@gmail.com ou appelez le 09 52 33 72 55. Aucun message n'est envoyé automatiquement par le site."
+  },
+  "mobileMenu": {
+    "open": true,
+    "bodyLocked": true,
+    "url": "http://127.0.0.1:4173/galerie",
+    "closedAfterNav": true,
+    "errors": []
+  },
+  "reducedMotion": {
+    "count": 28,
+    "hidden": 0
+  },
+  "routeStatuses": {
+    "/": 200,
+    "/le-club": 200,
+    "/evenements": 200,
+    "/galerie": 200,
+    "/experience": 200,
+    "/infos": 200,
+    "/contact": 200,
+    "/mentions-legales": 200,
+    "/confidentialite": 200
+  }
+}

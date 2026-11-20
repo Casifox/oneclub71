@@ -1,0 +1,163 @@
+{
+  "breakpoints": {
+    "320": {
+      "overflow": 0,
+      "headerHeight": 61,
+      "h1Top": 206,
+      "toplineTop": 112,
+      "nav": false,
+      "menu": true,
+      "theme": false,
+      "status": false,
+      "contact": false,
+      "overflowing": [],
+      "errors": []
+    },
+    "375": {
+      "overflow": 0,
+      "headerHeight": 61,
+      "h1Top": 206,
+      "toplineTop": 112,
+      "nav": false,
+      "menu": true,
+      "theme": false,
+      "status": false,
+      "contact": false,
+      "overflowing": [],
+      "errors": []
+    },
+    "390": {
+      "overflow": 0,
+      "headerHeight": 61,
+      "h1Top": 206,
+      "toplineTop": 112,
+      "nav": false,
+      "menu": true,
+      "theme": false,
+      "status": false,
+      "contact": false,
+      "overflowing": [],
+      "errors": []
+    },
+    "430": {
+      "overflow": 0,
+      "headerHeight": 61,
+      "h1Top": 173,
+      "toplineTop": 112,
+      "nav": false,
+      "menu": true,
+      "theme": false,
+      "status": false,
+      "contact": false,
+      "overflowing": [],
+      "errors": []
+    },
+    "768": {
+      "overflow": 0,
+      "headerHeight": 61,
+      "h1Top": 173,
+      "toplineTop": 112,
+      "nav": false,
+      "menu": true,
+      "theme": false,
+      "status": false,
+      "contact": false,
+      "overflowing": [],
+      "errors": []
+    },
+    "1024": {
+      "overflow": 0,
+      "headerHeight": 61,
+      "h1Top": 187,
+      "toplineTop": 126,
+      "nav": true,
+      "menu": false,
+      "theme": true,
+      "status": false,
+      "contact": true,
+      "overflowing": [],
+      "errors": []
+    },
+    "1280": {
+      "overflow": 0,
+      "headerHeight": 61,
+      "h1Top": 187,
+      "toplineTop": 126,
+      "nav": true,
+      "menu": false,
+      "theme": true,
+      "status": true,
+      "contact": true,
+      "overflowing": [],
+      "errors": []
+    },
+    "1440": {
+      "overflow": 0,
+      "headerHeight": 61,
+      "h1Top": 187,
+      "toplineTop": 126,
+      "nav": true,
+      "menu": false,
+      "theme": true,
+      "status": true,
+      "contact": true,
+      "overflowing": [],
+      "errors": []
+    },
+    "1600": {
+      "overflow": 0,
+      "headerHeight": 61,
+      "h1Top": 187,
+      "toplineTop": 126,
+      "nav": true,
+      "menu": false,
+      "theme": true,
+      "status": true,
+      "contact": true,
+      "overflowing": [],
+      "errors": []
+    },
+    "1920": {
+      "overflow": 0,
+      "headerHeight": 61,
+      "h1Top": 187,
+      "toplineTop": 126,
+      "nav": true,
+      "menu": false,
+      "theme": true,
+      "status": true,
+      "contact": true,
+      "overflowing": [],
+      "errors": []
+    }
+  },
+  "dark": {
+    "toggle": {
+      "before": "light",
+      "after": {
+        "theme": "dark",
+        "stored": "dark",
+        "bodyBg": "rgb(0, 0, 0)",
+        "meta": "#000000"
+      },
+      "persisted": "dark",
+      "back": "light",
+      "errors": []
+    },
+    "system": {
+      "theme": "dark",
+      "bodyBg": "rgb(0, 0, 0)"
+    }
+  },
+  "axeDark": {
+    "/": [],
+    "/le-club": [],
+    "/evenements": [],
+    "/galerie": [],
+    "/experience": [],
+    "/infos": [],
+    "/contact": [],
+    "/mentions-legales": [],
+    "/confidentialite": []
+  }
+}

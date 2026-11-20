@@ -1,0 +1,623 @@
+{
+  "desktop": {
+    "pages": {
+      "404": {
+        "title": "Page introuvable — ONE CLUB",
+        "h1": "Cette nuit-là n'existe pas.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 1134
+      },
+      "home": {
+        "title": "ONE CLUB — La nuit a son adresse. Saint-Marcel (71)",
+        "h1": "La nuit\na son adresse.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 8508
+      },
+      "le-club": {
+        "title": "Le Club — 1 800 m² de nuit à Saint-Marcel — ONE CLUB",
+        "h1": "1 800 m²\nde nuit.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 5560
+      },
+      "evenements": {
+        "title": "Événements & archives — ONE CLUB",
+        "h1": "La programmation\nreprendra.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 5041
+      },
+      "galerie": {
+        "title": "Galerie — Le lieu, les nuits, les affiches — ONE CLUB",
+        "h1": "L'envers\ndu décor.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 3072
+      },
+      "experience": {
+        "title": "L'expérience — Rap, afrobeats, club et nuits à thème — ONE CLUB",
+        "h1": "Quatre façons\nde vivre la nuit.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 4645
+      },
+      "infos": {
+        "title": "Infos pratiques — Adresse, accès et réouverture — ONE CLUB",
+        "h1": "Nous trouver.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 4163
+      },
+      "contact": {
+        "title": "Contact & privatisation — ONE CLUB",
+        "h1": "Parlons de\nvotre nuit.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/confidentialite",
+          "/mentions-legales",
+          "/mentions-legales#credits"
+        ],
+        "height": 2576
+      },
+      "mentions-legales": {
+        "title": "Mentions légales — ONE CLUB",
+        "h1": "Mentions légales",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/confidentialite",
+          "/mentions-legales",
+          "/mentions-legales#credits"
+        ],
+        "height": 2508
+      },
+      "confidentialite": {
+        "title": "Politique de confidentialité — ONE CLUB",
+        "h1": "Politique de confidentialité",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 2411
+      }
+    },
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": []
+  },
+  "tablet": {
+    "pages": {
+      "404": {
+        "title": "Page introuvable — ONE CLUB",
+        "h1": "Cette nuit-là n'existe pas.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 1479
+      },
+      "home": {
+        "title": "ONE CLUB — La nuit a son adresse. Saint-Marcel (71)",
+        "h1": "La nuit\na son adresse.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 9548
+      },
+      "le-club": {
+        "title": "Le Club — 1 800 m² de nuit à Saint-Marcel — ONE CLUB",
+        "h1": "1 800 m²\nde nuit.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 6422
+      },
+      "evenements": {
+        "title": "Événements & archives — ONE CLUB",
+        "h1": "La programmation\nreprendra.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 5376
+      },
+      "galerie": {
+        "title": "Galerie — Le lieu, les nuits, les affiches — ONE CLUB",
+        "h1": "L'envers\ndu décor.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 3249
+      },
+      "experience": {
+        "title": "L'expérience — Rap, afrobeats, club et nuits à thème — ONE CLUB",
+        "h1": "Quatre façons\nde vivre la nuit.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 5798
+      },
+      "infos": {
+        "title": "Infos pratiques — Adresse, accès et réouverture — ONE CLUB",
+        "h1": "Nous trouver.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 4832
+      },
+      "contact": {
+        "title": "Contact & privatisation — ONE CLUB",
+        "h1": "Parlons de\nvotre nuit.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/confidentialite",
+          "/mentions-legales",
+          "/mentions-legales#credits"
+        ],
+        "height": 3166
+      },
+      "mentions-legales": {
+        "title": "Mentions légales — ONE CLUB",
+        "h1": "Mentions légales",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/confidentialite",
+          "/mentions-legales",
+          "/mentions-legales#credits"
+        ],
+        "height": 2627
+      },
+      "confidentialite": {
+        "title": "Politique de confidentialité — ONE CLUB",
+        "h1": "Politique de confidentialité",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 2522
+      }
+    },
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": []
+  },
+  "mobile": {
+    "pages": {
+      "404": {
+        "title": "Page introuvable — ONE CLUB",
+        "h1": "Cette nuit-là n'existe pas.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 1736
+      },
+      "home": {
+        "title": "ONE CLUB — La nuit a son adresse. Saint-Marcel (71)",
+        "h1": "La nuit\na son adresse.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 12101
+      },
+      "le-club": {
+        "title": "Le Club — 1 800 m² de nuit à Saint-Marcel — ONE CLUB",
+        "h1": "1 800 m²\nde nuit.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 6898
+      },
+      "evenements": {
+        "title": "Événements & archives — ONE CLUB",
+        "h1": "La programmation\nreprendra.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 7575
+      },
+      "galerie": {
+        "title": "Galerie — Le lieu, les nuits, les affiches — ONE CLUB",
+        "h1": "L'envers\ndu décor.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 4691
+      },
+      "experience": {
+        "title": "L'expérience — Rap, afrobeats, club et nuits à thème — ONE CLUB",
+        "h1": "Quatre façons\nde vivre la nuit.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 5317
+      },
+      "infos": {
+        "title": "Infos pratiques — Adresse, accès et réouverture — ONE CLUB",
+        "h1": "Nous trouver.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 5292
+      },
+      "contact": {
+        "title": "Contact & privatisation — ONE CLUB",
+        "h1": "Parlons de\nvotre nuit.",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/confidentialite",
+          "/mentions-legales",
+          "/mentions-legales#credits"
+        ],
+        "height": 3684
+      },
+      "mentions-legales": {
+        "title": "Mentions légales — ONE CLUB",
+        "h1": "Mentions légales",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/confidentialite",
+          "/mentions-legales",
+          "/mentions-legales#credits"
+        ],
+        "height": 3789
+      },
+      "confidentialite": {
+        "title": "Politique de confidentialité — ONE CLUB",
+        "h1": "Politique de confidentialité",
+        "broken": [],
+        "overflow": 0,
+        "links": [
+          "/",
+          "/le-club",
+          "/evenements",
+          "/galerie",
+          "/experience",
+          "/infos",
+          "/infos#statut",
+          "/contact",
+          "/mentions-legales",
+          "/confidentialite",
+          "/mentions-legales#credits"
+        ],
+        "height": 3529
+      }
+    },
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": []
+  }
+}
